@@ -1,9 +1,26 @@
-# Build and Release Folders
-bin-debug/
-bin-release/
+/.settings/*
 
-# Project property files
-.actionScriptProperties
-.flexProperties
-.settings/
-.project
+/html-template/*
+/bin-debug/*
+/bin-release/*
+/libs/*
+/bin/*
+/doc/*
+/report
+/reports
+/target
+/dist
+/.FlexUnitSettings/*
+/.actionScriptProperties
+/.flexProperties
+/.flexLibProperties
+/.project
+/.idea
+/*.iml
+/com.adobe.flexbuilder.project.prefs
+/org.eclipse.core.resources.prefs
+FlexUnitApplication.mxml
+user.properties
+Icon
+Thumbs.db
+.DS_Store
